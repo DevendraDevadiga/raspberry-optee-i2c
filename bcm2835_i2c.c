@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: BSD-2-Clause
 /*
+ * (c) 2022 Broadcom.
  * (c) 2022 Devendra Devadiga <devendradevadiga01@gmail.com>
  */
 
