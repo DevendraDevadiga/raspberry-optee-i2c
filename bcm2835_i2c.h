@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: BSD-2-Clause */
 /*
- * Copyright (C) 2022
- * Devendra Devadiga <devendradevadiga01@gmail.com>
+ * Copyright 2022 Broadcom.
+ * Copyright 2022 Devendra Devadiga <devendradevadiga01@gmail.com>
  */
 #ifndef __DRIVERS_BCM_I2C_H
 #define __DRIVERS_BCM_I2C_H
