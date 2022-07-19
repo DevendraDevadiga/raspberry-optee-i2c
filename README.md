@@ -1,5 +1,5 @@
 # raspberry-optee-i2c
-OP-TEE I2C Driver for Raspberry Pi
+OP-TEE I2C Driver for Raspberry Pi (*Not tested.....)
 
 Refer this article for more information:
 
